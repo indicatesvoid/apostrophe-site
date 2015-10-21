@@ -14,10 +14,10 @@
   "author": "P'unk Avenue LLC",
   "license": "MIT",
   "dependencies": {
-    "apostrophe": "~0.5.x",
+    "apostrophe": "git://github.com/indicatesvoid/apostrophe.git",
     "apostrophe-pages": "~0.5.x",
     "apostrophe-schemas": "~0.5.x",
-    "appy": "~0.5.0",
+    "appy": "git://github.com/indicatesvoid/appy.git",
     "async": "0.8.x",
     "extend": "~1.2.0",
     "i18n": "0.4.1",
