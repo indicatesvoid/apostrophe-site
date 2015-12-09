@@ -16,7 +16,7 @@
   "dependencies": {
     "apostrophe": "git://github.com/indicatesvoid/apostrophe.git",
     "apostrophe-pages": "~0.5.x",
-    "apostrophe-schemas": "~0.5.x",
+    "apostrophe-schemas": "git://github.com/indicatesvoid/apostrophe-schemas.git",
     "appy": "git://github.com/indicatesvoid/appy.git",
     "async": "0.8.x",
     "extend": "~1.2.0",
