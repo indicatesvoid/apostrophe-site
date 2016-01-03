@@ -210,6 +210,7 @@ function AposSite(options) {
     }
 
     appy.bootstrap({
+      ssl: options.ssl,
       passport: options.passport,
 
       rootDir: self.rootDir,
